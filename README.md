@@ -1,4 +1,4 @@
-# Random Photo Search using UNSPLASH.COM API
+# Random Photo Search
 
 ### About this App
 
